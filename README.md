@@ -5,11 +5,11 @@
 
 > settings--->secrets
 
-## USERNAME
+## 19817587093
 学习通的账号
-## PASSWORD
+## xsj20041130
 学习通的密码
-## sleepTime
+## 3
 获取到签到任务后，等待多少秒进行签到（防止签到过快），单位毫秒.
 
 GitHub有一定延迟，所以可以不用设置sleepTime
