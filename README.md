@@ -5,9 +5,9 @@
 
 > settings--->secrets
 
-## USERNAME
+## 19817587093
 学习通的账号
-## PASSWORD
+## xsj20041130
 学习通的密码
 ## sleepTime
 获取到签到任务后，等待多少秒进行签到（防止签到过快），单位毫秒.
